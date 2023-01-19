@@ -1,10 +1,10 @@
 ---
 layout: page
-title: project 5
-description: a project with a background image
-img: assets/img/1.jpg
+title: SkySites
+description: A Web App for weather observers
+img: assets/img/MadisonSK.jpeg
 importance: 3
-category: fun
+category: Web App
 ---
 
 Every project has a beautiful feature showcase page.
@@ -43,9 +43,11 @@ To give your project a background in the portfolio page, just add the img tag to
     This image can also have a caption. It's like magic.
 </div>
 
+<!--
+
 You can also put regular text between your rows of images.
 Say you wanted to write a little bit about your project before you posted the rest of the images.
-You describe how you toiled, sweated, *bled* for your project, and then... you reveal its glory in the next row of images.
+You describe how you toiled, sweated, *bled* for your project, and then... you reveal it's glory in the next row of images.
 
 
 <div class="row justify-content-sm-center">
@@ -78,3 +80,5 @@ Here's the code for the last row of images above:
 </div>
 ```
 {% endraw %}
+
+-->
