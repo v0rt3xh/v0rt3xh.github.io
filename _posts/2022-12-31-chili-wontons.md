@@ -23,5 +23,7 @@ I will post the recipes of my signature dishes (Signature, sounds like a Micheli
 | 料 | 数量 |
 |-----| ----- |
 | 辣椒面 | 100克 |
+| 姜片| 5 ~ 7片 |
+
 
 ### 配料: 抄手
