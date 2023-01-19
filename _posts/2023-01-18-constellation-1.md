@@ -3,8 +3,8 @@ layout: post
 title: Intro to Constellation (1) Boötes
 date: 2023-01-18 17:12:00-0400
 description: The first post of the Constellations Series.
-tags: Northern-Constellation
-categories: Constellations
+tags: Constellations
+categories: North-Constellation
 giscus_comments: true
 ---
 

@@ -4,6 +4,8 @@ title: a post with diagrams
 date: 2021-07-04 17:39:00
 description: an example of a blog post with diagrams
 giscus_comments: true
+tags: Home-cooked Recipes
+categories: Wonton
 ---
 
 This theme supports generating various diagrams from a text description using [jekyll-diagrams](https://github.com/zhustec/jekyll-diagrams){:target="\_blank"} plugin.
