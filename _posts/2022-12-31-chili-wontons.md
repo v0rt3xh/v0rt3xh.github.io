@@ -4,7 +4,7 @@ title: Recipes (1) | 红油抄手(Chili Wontons)
 date: 2022-12-31 12:39:00-0400
 description: The recipe of chili wontons
 giscus_comments: true
-tags: Home-cooked Recipes
+tags: "Home-cooked Recipes"
 categories: Wonton
 ---
 
@@ -78,7 +78,7 @@ categories: Wonton
 这一步我直接按照Qiong Cooking (大琼家的美食, [Youtube Link with Timestamp](https://youtu.be/O3kOhTbfwVs?t=178))。
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/Wonton.jpg" title="Wonton Wrapper" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/Wonton.jpg" title="Wonton Wrapped" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
@@ -87,6 +87,7 @@ categories: Wonton
 
 ### 蘸料和煮抄手的方法
 红油抄手的蘸料也可以说是汤料，煮抄手前，我们先准备蘸料。
+
 | 料 |     | 数量 |
 |-----| ----- | ----- |
 | 盐 |     | 4克 |
