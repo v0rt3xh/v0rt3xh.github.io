@@ -1,7 +1,7 @@
 ---
 layout: page
 title: CloudI
-description: An Image Classifier for different types of clouds
+description: An image classifier for different types of clouds
 img: assets/img/cloudi.png
 importance: 1
 category: Machine Learning
