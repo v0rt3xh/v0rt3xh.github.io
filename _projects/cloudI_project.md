@@ -3,7 +3,7 @@ layout: page
 title: CloudI
 description: An image classifier for different types of clouds
 img: assets/img/cloudi.png
-importance: 1
+importance: 2
 category: Machine Learning
 github: https://github.com/v0rt3xh/CloudI
 ---
