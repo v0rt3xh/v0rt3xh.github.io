@@ -23,7 +23,7 @@ Let's start with Boötes.
 
 Boötes, the Herdsman, is a constellation in the northern sky. There are many bright stars within the constellation, 29 of which are visible to the naked eye. 
 
-Ancient Babylonians depicted Boötes as Enlil, the leader of the pantheon and the special patron of farmers. In the eyes of ancient Egyptians, Boötes resembled the foreleg of an ox. Nowadays, people view the pattern of stars as a kite of an ice cream cone. 
+Ancient Babylonians depicted Boötes as Enlil, the leader of the pantheon and the special patron of farmers. In the eyes of ancient Egyptians, Boötes resembled the foreleg of an ox. Nowadays, people view the pattern of stars as a kite or an ice cream cone. 
 
 <div class="caption">
     <a title="Till Credner, CC BY-SA 3.0 &lt;https://creativecommons.org/licenses/by-sa/3.0&gt;, via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:BootesCC.jpg"><img width="256" alt="BootesCC" src="https://upload.wikimedia.org/wikipedia/commons/b/bb/BootesCC.jpg"></a>
