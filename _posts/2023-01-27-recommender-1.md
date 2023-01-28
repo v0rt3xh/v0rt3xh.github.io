@@ -202,10 +202,13 @@ For categorical features, each unique ID space ("vocabulary") has a separately l
 Importantly, categorical features in the same ID space also share underlying embeddings. For example, there exists a single global embedding of video IDs that many distinct features use: video ID of the impression, last video watched by the user, video ID that seeded the recommendation. **Despite the shared embedding, each feature is fed separately into the network so that the layers above can learn specialized representations per feature**.
 
 ### Normalizing Continuous Features
-Proper normalization of continuous features was critical for convergence. 
-*TODO: The normalization method: scaling the values such that the feature is equally distributed in (0,1)*
+Proper normalization of continuous features was critical for convergence. Feature values that are equally distributed in (0,1) are desired. The authors used the following method: Assume there is a continuous feature $$x$$ with distribution $f$, the normalized feature $$\tilde{x}$$ can be expressed as
 
-$x^2, x^{0.5}$ are included for more expressive power. (Form super- and sub-linear functions of the feature) This could improve offline accuracy.
+$$\tilde {x} = \int _{-\infty}^{x} df$$
+
+One can approximate the above integral by linear interpolation on the quantiles of feature values.
+
+$x^2, x^{0.5}$ are included for more expressive power, since they can form super- and sub-linear functions of the feature. This could improve offline accuracy.
 
 ### Modeling Expected Watch Time
 Our goal is to predict expected watch time given training examples that are either positive (the video impression was clicked) or negative (the impression was not clicked). To predict expected watch time, the authors use weighted logistic regression.
@@ -215,7 +218,7 @@ the video. Negative (unclicked) impressions all receive unit weight.
 
 *TODO: The formula of this weighted logistic regression model. Logistic regression was modified by weighting training examples with watch time for positive examples and unity for negative examples, allowing us to learn odds that closely model expected watch time*
 
-
+### Thanks for Reading!
 
 
 
