@@ -211,12 +211,28 @@ One can approximate the above integral by linear interpolation on the quantiles 
 $x^2, x^{0.5}$ are included for more expressive power, since they can form super- and sub-linear functions of the feature. This could improve offline accuracy.
 
 ### Modeling Expected Watch Time
-Our goal is to predict expected watch time given training examples that are either positive (the video impression was clicked) or negative (the impression was not clicked). To predict expected watch time, the authors use weighted logistic regression.
+The goal of the ranking network is to predict expected watch time given training examples that are either positive (the video impression was clicked) or negative (the impression was not clicked). The model is trained with weighted logistic regression under cross-entropy loss. The positive (clicked) impressions are weighted by the observed watch time on the video. Negative (unclicked) impressions all receive unit weight.
 
-The positive (clicked) impressions are weighted by the observed watch time on
-the video. Negative (unclicked) impressions all receive unit weight.
+Assuming that we have the probability for a user to click a video as $$p = \frac{k}{N}$$, where $$k$$ is the number of positive impressions. Now, the odds should look like this:
 
-*TODO: The formula of this weighted logistic regression model. Logistic regression was modified by weighting training examples with watch time for positive examples and unity for negative examples, allowing us to learn odds that closely model expected watch time*
+$$\frac{p}{1 - p} = \frac{k}{N - k}$$
+
+With the weighting scheme above, the odds can be further expressed as:
+
+$$ \frac{k}{N - k} = \frac{\frac{1}{N}(T_{1} + T_{2} + ... + T_{K})}{1 - \frac{k}{N}} = \frac{E[T_{i}]}{1 - p} \approx E[T_{i}]$$ 
+
+Where $$T_{i}$$ is the watch time of the $$i^{th}$$ positive impression. Since the click probability $$p$$ is usually small on YouTube, the odds is an approximation to the expected watch time. Thus, when serving, we can use the exponential function $$e^{x}$$ to produce scores, which closely estimates expected watch time.
+
+In this case, the loss function has the following form:
+
+$$L = - \sum _{i = 1}^{N} (y_{i} w_{i} log(\hat{y}_{i}) + (1 - y_{i}) w_{i} log(1 - \hat{y}_{i}))$$
+
+Where $$y_{i} = 1$$ if the impression is positive, $$y_{i} = 0$$ otherwise. 
+
+$$w_{i} = T_{i}$$ if the impression is positive, 
+$$w_{i} = 1$$ otherwise.
+
+But I haven't figured out the connection between this loss function and previously deduced odds. If you have some thoughts, please feel free to comment below. 
 
 ### Thanks for Reading!
 
