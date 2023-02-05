@@ -6,6 +6,7 @@ img: assets/img/MadisonSK.jpeg
 importance: 3
 category: Web App
 github: https://github.com/v0rt3xh/Madison-SkySite
+giscus_comments: true
 ---
 
 There are tons of places around Madison for outdoor activities. You can view the sunset at Tennery Park, or have a look at the windy Wisconsin River at Ferry Bluff. But where are these places and when is the best time to visit? 
