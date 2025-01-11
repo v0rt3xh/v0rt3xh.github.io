@@ -17,6 +17,7 @@ social: true  # includes social icons at the bottom of the page
 
 Welcome to my personal page! 
 
-My name is Haitao, a recent graduate from the University of Wisconsin-Madison. I have rich experience in statistical modeling and machine learning. I'm also interested in developing web applications. In my spare time, I enjoy hiking, photography, stargazing, and playing soccer. 
+My name is Haitao. At the moment, I'm working as a data engineer (or data analyst) for Vibe, Inc. I use this place to write some random posts. 
 
-On my page, you can find a portfolio to my previous projects. At the moment, I'm updating a blog section. I will write some stuffs about recommender systems, home-cooked dishes recipes, and constellations (Quite random huh?).
+There was a more detailed introduction (outdated). You might find it in the commit history though. I will come up with a new one soon. 
+
