@@ -17,7 +17,6 @@ social: true  # includes social icons at the bottom of the page
 
 Welcome to my personal page! 
 
-My name is Haitao. At the moment, I'm working as a data engineer (or data analyst) for Vibe, Inc. I use this place to write some random posts. 
+My name is Haitao Huang. At the moment (August 2026), I'm exploring different options for the next stop on my career path. In the last three years (2023-2026), I focused more on data infra and data engineering.
 
-There was a more detailed introduction (outdated). You might find it in the commit history though. I will come up with a new one soon. 
-
+I have been using this GitHub page as a blog (with quite irregular updates though). Let's see how it will evolve.
