@@ -50,7 +50,7 @@ You can take the subway to get to the balcony. The stop "Citizen Center" is the 
 ## 滨江樱花跑道 | Cherry Blossom Track - Wentao road, Binjiang
 
 <div class="caption">
-        {% include figure.html path="assets/img/hangzhou/wentao_cherry.jpg title="Qiantang River bridge and cherry blossom" class="img-fluid rounded z-depth-1" 
+        {% include figure.html path="assets/img/hangzhou/wentao_cherry.jpg" title="Qiantang River bridge and cherry blossom" class="img-fluid rounded z-depth-1" 
         width="360"%}
 </div>
 <div class="caption">
@@ -62,7 +62,7 @@ You can take the subway to get to the balcony. The stop "Citizen Center" is the 
 The running track along Wentao Road in BinJiang district is a must-see in spring. There are over 3,000 cherry trees. You should not miss the blossom scene. In other time of the year, it's still a perfect spot to hang out. At night, the Liuhe Pagoda is shining bright.
 
 <div class="caption">
-        {% include figure.html path="assets/img/hangzhou/liuhe_pagoda_night.jpg title="Liuhe Pagoda at night" class="img-fluid rounded z-depth-1" 
+        {% include figure.html path="assets/img/hangzhou/liuhe_pagoda_night.jpg" title="Liuhe Pagoda at night" class="img-fluid rounded z-depth-1" 
         width="360"%}
 </div>
 <div class="caption">
