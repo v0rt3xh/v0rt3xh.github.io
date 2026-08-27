@@ -41,10 +41,38 @@ In spring, you can take a stroll around the balcony and see the cherry blossom.
 
 You can take the subway to get to the balcony. The stop "Citizen Center" is the nearest one. You should look for the exit 'N2'.
 
-> As a note, I'm also thinking about an efficient way to navigate around in China. Lonely Planet does have introduction to that. And we do have [English version](https://www.metroman.cn/en/maps/hangzhou/network) for the metro lines. Amap (高德地图) also provides English translations. However, I probably need to interview some tourists to understand their needs.
+> As a note, I'm also thinking about an efficient way to navigate around in China. Lonely Planet does have introduction to that. And we do have [English version](https://www.metroman.cn/en/maps/hangzhou/network) for the metro lines. Amap (高德地图) also provides English translations. Apple Map is a great alternative as well. However, I probably need to interview some tourists to understand their needs.
 
 如果是自驾的话，停在"钱江新城二号地下停车场"很方便，每小时4元，一天最高24元。
 
-> If you plan to ride to the balcony, search Qianjiang New Town No.2 Underground Parking Lot on the English version Amap. The parking fee is ¥4/hour with a ¥24 daily cap.
+> If you drive to the balcony, search Qianjiang New Town No.2 Underground Parking Lot on the English version Amap or Apple Map. The parking fee is ¥4/hour with a ¥24 daily cap.
+
+## 滨江樱花跑道 | Cherry Blossom Track - Wentao road, Binjiang
+
+<div class="caption">
+        {% include figure.html path="assets/img/hangzhou/wentao_cherry.jpg" title="Qiantang River bridge and cherry blossom" class="img-fluid rounded z-depth-1" 
+        width="360"%}
+</div>
+<div class="caption">
+    夜晚的闻涛路 - 钱塘江大桥 - 盛开的樱花
+</div>
+
+闻涛路的樱花跑道在春天的时候是不可错过的。樱花谢幕之后，你也可以于夜晚沿着跑道行走，赏两岸风景。在钱塘江大桥的那一段，你能看到对岸的六合塔。
+
+The running track along Wentao Road in BinJiang district is a must-see in spring. There are over 3,000 cherry trees. You should not miss the blossom scene. In other time of the year, it's still a perfect spot to hang out. At night, the Liuhe Pagoda is shining bright.
+
+<div class="caption">
+        {% include figure.html path="assets/img/hangzhou/liuhe_pagoda_night.jpg" title="Liuhe Pagoda at night" class="img-fluid rounded z-depth-1" 
+        width="360"%}
+</div>
+<div class="caption">
+    夜晚，远看六和塔 - 钱塘江大桥
+</div>
+
+### 交通方式 | How to Get There
+
+如果是坐地铁，4号线的联庄站相对最方便，从A口出来面向着红绿灯路口知性，然后一直走到江边就到了。(通常来说，Google Map如果是步行路线，会有街景图片作为辅助，但这里不适用)。
+
+If you ride the subway, look for the station: Lianzhuang on Line 4. After you get back on the ground floor level from exit A, look for the traffic light in front of you, walk stright through the intersection and keep going forward till you see the Qiantang river. If we can use Google Map, you may find a navigation route with street view photos. Nonetheless, we cannot use it and might need better alternatives.
 
 _More to follow_
