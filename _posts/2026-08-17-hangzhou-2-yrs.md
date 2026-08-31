@@ -41,11 +41,11 @@ In spring, you can take a stroll around the balcony and see the cherry blossom.
 
 You can take the subway to get to the balcony. The stop "Citizen Center" is the nearest one. You should look for the exit 'N2'.
 
-> As a note, I'm also thinking about an efficient way to navigate around in China. Lonely Planet does have introduction to that. And we do have [English version](https://www.metroman.cn/en/maps/hangzhou/network) for the metro lines. Amap (高德地图) also provides English translations. Apple Map is a great alternative as well. However, I probably need to interview some tourists to understand their needs.
+As a note, I'm also thinking about an efficient way to navigate around in China. Lonely Planet does have introduction to that. And we do have [English version](https://www.metroman.cn/en/maps/hangzhou/network) for the metro lines. Amap (高德地图) also provides English translations. Apple Map is a great alternative as well. However, I probably need to interview some tourists to understand their needs.
 
 如果是自驾的话，停在"钱江新城二号地下停车场"很方便，每小时4元，一天最高24元。
 
-> If you drive to the balcony, search Qianjiang New Town No.2 Underground Parking Lot on the English version Amap or Apple Map. The parking fee is ¥4/hour with a ¥24 daily cap.
+If you drive to the balcony, search Qianjiang New Town No.2 Underground Parking Lot on the English version Amap or Apple Map. The parking fee is ¥4/hour with a ¥24 daily cap.
 
 ## 滨江樱花跑道 | Cherry Blossom Track - Wentao road, Binjiang
 
@@ -71,8 +71,12 @@ The running track along Wentao Road in BinJiang district is a must-see in spring
 
 ### 交通方式 | How to Get There
 
-如果是坐地铁，4号线的联庄站相对最方便，从A口出来面向着红绿灯路口知性，然后一直走到江边就到了。(通常来说，Google Map如果是步行路线，会有街景图片作为辅助，但这里不适用)。
+如果是坐地铁，4号线的联庄站相对最方便，从A口出来面向着红绿灯路口直行，然后一直走到江边就到了。(通常来说，Google Map如果是步行路线，会有街景图片作为辅助，但这里不适用)。
 
 If you ride the subway, look for the station: Lianzhuang on Line 4. After you get back on the ground floor level from exit A, look for the traffic light in front of you, walk stright through the intersection and keep going forward till you see the Qiantang river. If we can use Google Map, you may find a navigation route with street view photos. Nonetheless, we cannot use it and might need better alternatives.
+
+如果是开车前往，建议停在海外高层次人才创新创业基地停车场，首小时免费，随后每小时4元，20元封顶。
+
+If you drive there, consider parking at Overseas High Level Talent Innovative Imbark Base (I took the name from English version of Apple Map). The first hour is free. After that, the fee is ¥4/hour with a ¥20 daily cap.
 
 _More to follow_
